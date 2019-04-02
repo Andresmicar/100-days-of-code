@@ -2,7 +2,7 @@
 
 ### Day 1: Abril 2, 2019 
 
-**Today's Progress**: Terminal, Git y Github
+**Today's Progress**: Terminal, Git y Github.
 
 **Thoughts:** Soy una persona a la que le interesa mucho la apariencia, pero no la de los demás, sino la mia. Esto me ayuda a "comportarme bien" y siempre intentar hacer las cosas correctamente, pero también necesito que todo salga bien porque no me gusta parecer "poco competente o estúpido", por eso me preocupa cada vez que no capto a la primera las explicaciones. Pero aunque no es demasiado bueno en el sentido de tranquilidad, ya que vivo intranquilo, hay una parte buena y tengo la solución. Necesito dedicar mas y mas horas hasta que consiga dominar...
 
