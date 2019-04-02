@@ -1,15 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Abril 2, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Terminal, Git y Github.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Soy una persona a la que le interesa mucho la apariencia, pero no la de los demás, sino la mia. Esto me ayuda a "comportarme bien" y siempre intentar hacer las cosas correctamente, pero también necesito que todo salga bien porque no me gusta parecer "poco competente o estúpido", por eso me preocupa cada vez que no capto a la primera las explicaciones. Pero aunque no es demasiado bueno en el sentido de tranquilidad, ya que vivo intranquilo, hay una parte buena y tengo la solución. Necesito dedicar mas y mas horas hasta que consiga dominar.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -25,6 +24,6 @@
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) work**
+**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
